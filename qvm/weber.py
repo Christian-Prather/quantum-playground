@@ -8,7 +8,7 @@ import argparse
 import matplotlib.pyplot as plt
 
 PROCESSOR_ID = "weber"
-NUM_SIMULATIONS = 3000
+NUM_SIMULATIONS = 10000
 
 
 def weber():
