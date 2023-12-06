@@ -1,0 +1,5 @@
+cirq
+cirq_google
+qsimcirq
+argparse
+matplotlib
