@@ -18,7 +18,7 @@ def parse_arguments():
 
 def basic_circuit():
     # Set a qubit
-    qubit = cirq.GridQubit(0, 0)
+    qubit = cirq.GridQubit(4, 5)
 
     # Generate a circuit
     circuit = cirq.Circuit(cirq.X(qubit)**0.5, cirq.measure(qubit, key="m"))
