@@ -3,3 +3,5 @@ cirq_google
 qsimcirq
 argparse
 matplotlib
+tensorflow
+tensorflow-quantum
